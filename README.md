@@ -1,7 +1,9 @@
 # QRT-challenge
+(On ne peut pas utiliser Github car les fichiers Train et Test ont des tailles supérieurs à 25mo, mais on peut travailler ici) 
 Le challenge QRT est une competition de prédiction de résultat de match dont l'objectif est de construire un modèle prédictif riche qui peut fonctionner pour n'importe quelle ligue de football, quel que soit le niveau de compétition ou la situation géographique.
-\\
-\Description des données
+
+
+Description des données
 Vous disposerez de données au niveau des équipes et des joueurs pour des dizaines de ligues de football.
 
 Les données sont regroupées dans deux fichiers zip, X_train.zip et X_test.zip, ainsi que dans deux fichiers csv Y_train.csv et Y_train_supp.csv.
